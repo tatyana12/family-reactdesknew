@@ -50,10 +50,10 @@ img:hover {
     height: 120%;
     width: 120%;
     top:auto;
-    
-      background: "blue";
-       
+ }
 
+#img:hover * {
+    background: gold;
 }
 
 

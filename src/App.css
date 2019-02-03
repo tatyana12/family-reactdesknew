@@ -50,9 +50,9 @@ img:hover {
     height: 120%;
     width: 120%;
     top:auto;
-    "&:hover": {
-      background: "#efefef"
-    }    
+    
+      background: "blue";
+       
 
 }
 
